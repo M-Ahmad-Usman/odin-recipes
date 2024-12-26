@@ -1,0 +1,39 @@
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+p {
+    font-family: Geneva, Tahoma, sans-serif;
+}
+
+a {
+    font-size: 1.5em;
+    color: rgb(10, 38, 217);
+}
+
+li {
+    font-family: Geneva, Tahoma, sans-serif;
+    margin: 5px;
+}
+
+li strong {
+    font-size: 1.1em;
+}
+
+ol li::marker {
+    font-weight: 600;
+}
