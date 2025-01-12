@@ -1,3 +1,8 @@
+body {
+    background-color: black;
+    color: white;
+}
+
 h1, h2, h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -22,7 +27,7 @@ p {
 
 a {
     font-size: 1.5em;
-    color: rgb(10, 38, 217);
+    color: rgb(255, 255, 255);
 }
 
 li {
